@@ -21,22 +21,56 @@ I am making this as a public repository so that if I'm stuck I can easily point 
    7. [Section challenge](#section_4_challenge)
    8. [Section quizz](#section_4_quizz)
 4. [Section 5 - Structure of a C++ Program](#section_5)
+   7. [Section challenge](#section_5_challenge)
+   8. [Section quizz](#section_5_quizz)
 5. [Section 6 - Variables and Constants](#section_6)
+   7. [Section challenge](#section_6_challenge)
+   8. [Section quizz](#section_6_quizz)
 5. [Section 7 - Arrays and Vectors](#section_7)
+   7. [Section challenge](#section_7_challenge)
+   8. [Section quizz](#section_7_quizz)
 5. [Section 8 - Statements and Operators](#section_8)
+   7. [Section challenge](#section_8_challenge)
+   8. [Section quizz](#section_8_quizz)
 5. [Section 9 - Controlling Program Flow](#section_9)
+   7. [Section challenge](#section_9_challenge)
+   8. [Section quizz](#section_9_quizz)
 5. [Section 10 - Characters and Strings](#section_10)
+   7. [Section challenge](#section_10_challenge)
+   8. [Section quizz](#section_10_quizz)
 5. [Section 11 - Functions](#section_11)
+   7. [Section challenge](#section_11_challenge)
+   8. [Section quizz](#section_11_quizz)
 5. [Section 12 - Pointers and References](#section_12)
+   7. [Section challenge](#section_12_challenge)
+   8. [Section quizz](#section_12_quizz)
 5. [Section 13 - OOP - Classes and Objects](#section_13)
+   7. [Section challenge](#section_13_challenge)
+   8. [Section quizz](#section_13_quizz)
 5. [Section 14 - Operator Overloading](#section_14)
+   7. [Section challenge](#section_14_challenge)
+   8. [Section quizz](#section_14_quizz)
 5. [Section 15 - Inheritance](#section_15)
+   7. [Section challenge](#section_15_challenge)
+   8. [Section quizz](#section_15_quizz)
 5. [Section 16 - Polymorphism](#section_16)
+   7. [Section challenge](#section_16_challenge)
+   8. [Section quizz](#section_16_quizz)
 5. [Section 17 - Smart Pointers](#section_17)
+   7. [Section challenge](#section_17_challenge)
+   8. [Section quizz](#section_17_quizz)
 5. [Section 18 - Exception Handling](#section_18)
+   7. [Section challenge](#section_18_challenge)
+   8. [Section quizz](#section_18_quizz)
 5. [Section 19 - I/O and Streams](#section_19)
+   7. [Section challenge](#section_19_challenge)
+   8. [Section quizz](#section_19_quizz)
 5. [Section 20 - The Standard Template Library (STL)](#section_20)
+   7. [Section challenge](#section_20_challenge)
+   8. [Section quizz](#section_20_quizz)
 5. [Section 21 - Lambda Expressions](#section_21)
+   7. [Section challenge](#section_21_challenge)
+   8. [Section quizz](#section_21_quizz)
   
 
 ## Naming conventions (Not in the course) <a name="naming_conventions"></a>
@@ -213,20 +247,103 @@ To check my solution go to this [folder](https://github.com/Cedro23/BeginningCPP
 10 out of 10 - first try
 
 ## Section 5 - Structure of a C++ Program <a name="section_5"></a>
+
+### Section challenge <a name="section_5_challenge"></a>
+
+### Section quizz <a name="section_5_quizz"></a>
+
 ## Section 6 - Variables and Constants <a name="section_6"></a>
+
+### Section challenge <a name="section_6_challenge"></a>
+
+### Section quizz <a name="section_6_quizz"></a>
+
 ## Section 7 - Arrays and Vectors <a name="section_7"></a>
+
+### Section challenge <a name="section_7_challenge"></a>
+
+### Section quizz <a name="section_7_quizz"></a>
+
 ## Section 8 - Statements and Operators <a name="section_8"></a>
+
+### Section challenge <a name="section_8_challenge"></a>
+
+### Section quizz <a name="section_8_quizz"></a>
+
 ## Section 9 - Controlling Program Flow <a name="section_9"></a>
+
+### Section challenge <a name="section_9_challenge"></a>
+
+### Section quizz <a name="section_9_quizz"></a>
+
 ## Section 10 - Characters and Strings <a name="section_10"></a>
+
+### Section challenge <a name="section_10_challenge"></a>
+
+### Section quizz <a name="section_10_quizz"></a>
+
 ## Section 11 - Functions <a name="section_11"></a>
+
+### Section challenge <a name="section_11_challenge"></a>
+
+### Section quizz <a name="section_11_quizz"></a>
+
 ## Section 12 - Pointers and References <a name="section_12"></a>
+
+### Section challenge <a name="section_12_challenge"></a>
+
+### Section quizz <a name="section_12_quizz"></a>
+
 ## Section 13 - OOP - Classes and Objects <a name="section_13"></a>
+
+### Section challenge <a name="section_13_challenge"></a>
+
+### Section quizz <a name="section_13_quizz"></a>
+
 ## Section 14 - Operator Overloading <a name="section_14"></a>
+
+### Section challenge <a name="section_14_challenge"></a>
+
+### Section quizz <a name="section_14_quizz"></a>
+
 ## Section 15 - Inheritance <a name="section_15"></a>
+
+### Section challenge <a name="section_15_challenge"></a>
+
+### Section quizz <a name="section_15_quizz"></a>
+
 ## Section 16 - Polymorphism <a name="section_16"></a>
+
+### Section challenge <a name="section_16_challenge"></a>
+
+### Section quizz <a name="section_16_quizz"></a>
+
 ## Section 17 - Smart Pointers <a name="section_17"></a>
+
+### Section challenge <a name="section_17_challenge"></a>
+
+### Section quizz <a name="section_17_quizz"></a>
+
 ## Section 18 - Exception Handling <a name="section_18"></a>
+
+### Section challenge <a name="section_18_challenge"></a>
+
+### Section quizz <a name="section_18_quizz"></a>
+
 ## Section 19 - I/O and Streams <a name="section_19"></a>
+
+### Section challenge <a name="section_19_challenge"></a>
+
+### Section quizz <a name="section_19_quizz"></a>
+
 ## Section 20 - The Standard Template Library (STL) <a name="section_20"></a>
+
+### Section challenge <a name="section_20_challenge"></a>
+
+### Section quizz <a name="section_20_quizz"></a>
+
 ## Section 21 - Lambda Expressions <a name="section_21"></a>
 
+### Section challenge <a name="section_21_challenge"></a>
+
+### Section quizz <a name="section_21_quizz"></a>
