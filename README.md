@@ -19,6 +19,22 @@ Repository made to follow the course [**Beginning C++ Programming - From Beginne
    7. [Section challenge](#section_4_challenge)
    8. [Section quizz](#section_4_quizz)
 4. [Section 5](#section_5)
+5. [Section 6](#section_6)
+5. [Section 7](#section_7)
+5. [Section 8](#section_8)
+5. [Section 9](#section_9)
+5. [Section 10](#section_10)
+5. [Section 11](#section_11)
+5. [Section 12](#section_12)
+5. [Section 13](#section_13)
+5. [Section 14](#section_14)
+5. [Section 15](#section_15)
+5. [Section 16](#section_16)
+5. [Section 17](#section_17)
+5. [Section 18](#section_18)
+5. [Section 19](#section_19)
+5. [Section 20](#section_20)
+5. [Section 21](#section_21)
   
 
 ## Naming conventions (Not in the course) <a name="naming_conventions"></a>
@@ -195,3 +211,20 @@ To check my solution go to this [folder](https://github.com/Cedro23/BeginningCPP
 10 out of 10 - first try
 
 ## Section 5 - Structure of a C++ Program <a name="section_5"></a>
+## Section 6 - Variables and Constants <a name="section_6"></a>
+## Section 7 - Arrays and Vectors <a name="section_7"></a>
+## Section 8 - Statements and Operators <a name="section_8"></a>
+## Section 9 - Controlling Program Flow <a name="section_9"></a>
+## Section 10 - Characters and Strings <a name="section_10"></a>
+## Section 11 - Functions <a name="section_11"></a>
+## Section 12 - Pointers and References <a name="section_12"></a>
+## Section 13 - OOP - Classes and Objects <a name="section_13"></a>
+## Section 14 - Operator Overloading <a name="section_14"></a>
+## Section 15 - Inheritance <a name="section_15"></a>
+## Section 16 - Polymorphism <a name="section_16"></a>
+## Section 17 - Smart Pointers <a name="section_17"></a>
+## Section 18 - Exception Handling <a name="section_18"></a>
+## Section 19 - I/O and Streams <a name="section_19"></a>
+## Section 20 - The Standard Template Library (STL) <a name="section_20"></a>
+## Section 21 - Lambda Expressions <a name="section_21"></a>
+
