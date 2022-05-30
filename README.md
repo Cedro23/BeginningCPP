@@ -1,7 +1,7 @@
 # Beginning C++ Programming - From Beginner to Beyond
 
 Repository made to follow the course [**Beginning C++ Programming - From Beginner to Beyond**](https://www.udemy.com/course/beginning-c-plus-plus-programming/) from [**Frank MITROPOULOS**](https://www.linkedin.com/in/frank-j-mitropoulos/)(LinkedIn profile) on Udemy.
-I am making this as a public repository so that if I'm stuck I can easily point people towards the code I am stuck on.
+I am making this as a public repository so that if I'm stuck I can easily point people towards the code I am stuck on. <br>
 *If I am asked by Mr. MITROPOULOS to pass this repository to private, I will do it.*
 
 ## Summary
