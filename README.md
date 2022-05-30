@@ -243,7 +243,9 @@ To check my solution go to this [folder](https://github.com/Cedro23/BeginningCPP
 
 
 ### Section quizz <a name="section_4_quizz"></a>
-10 out of 10 - first try
+Try #  | Result
+| :---:| -------
+   1   | 10 out of 10
 
 ## Section 5 - Structure of a C++ Program <a name="section_5"></a>
 
