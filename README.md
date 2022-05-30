@@ -63,8 +63,8 @@ class PerimeterRectangle
 
 Example : 
 ```cpp
-int GetValue()
-int SolveEquation()
+int GetValue();
+int SolveEquation();
 ```
 
 - The first character of function/method argument names should be lower case. All words starting after the first letter should be upper case.
