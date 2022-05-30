@@ -16,6 +16,8 @@ Repository made to follow the course [**Beginning C++ Programming - From Beginne
    4. [Linker errors](#section_4_linker_errors)
    5. [Runtime errors](#section_4_runtime_errors)
    6. [Logic errors](#section_4_logic_errors)
+   7. [Section challenge](#section_4_challenge)
+   8. [Section quizz](#section_4_quizz)
 4. [Section 5](#section_5)
   
 
@@ -183,4 +185,13 @@ if (age > 18)
 //So we need to check if the age is superior or equal to 18 (age >= 18)
 //Or superior to 17 (age > 17)
 ```
+
+### Section challenge <a name="section_4_challenge"></a>
+Challenge done correctly first try.
+To check my solution go to this [folder](https://github.com/Cedro23/BeginningCPP/tree/master/Section%204/FirstProgram/SectionChallenge).
+
+
+### Section quizz <a name="section_4_quizz"></a>
+10 out of 10 - first try
+
 ## Section 5 - Structure of a C++ Program <a name="section_5"></a>
