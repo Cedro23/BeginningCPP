@@ -8,74 +8,153 @@ I am making this as a public repository so that if I'm stuck I can easily point 
 
 *If I am asked by Mr. MITROPOULOS to pass this repository to private, I will do it.*
 
-## Summary
-1. [Naming conventions (Not in the course)](#naming_conventions)
-   1. [Classes and class attributes](#naming_conventions_classes_class_attributes)
-   2. [Functions and Function arguments](#naming_conventions_functions_functions_args)
-   3. [Variables](#naming_conventions_variables)
-   4. [Constants](#naming_conventions_constants)
-   5. [File naming](#naming_conventions_file_naming)
-1. [Section 4 - Getting Started](#section_4)
-   1. [IDEs functionalities](#section_4_IDE)
-   2. [Compiler errors](#section_4_comp_errors)
-   3. [Compiler warnings](#section_4_comp_warnings)
-   4. [Linker errors](#section_4_linker_errors)
-   5. [Runtime errors](#section_4_runtime_errors)
-   6. [Logic errors](#section_4_logic_errors)
-   7. [Section challenge](#section_4_challenge)
-   8. [Section quizz](#section_4_quizz)
-1. [Section 5 - Structure of a C++ Program](#section_5)
-   1. [Section challenge](#section_5_challenge)
-   2. [Section quizz](#section_5_quizz)
-1. [Section 6 - Variables and Constants](#section_6)
-   1. [Section challenge](#section_6_challenge)
-   2. [Section quizz](#section_6_quizz)
-1. [Section 7 - Arrays and Vectors](#section_7)
-   1. [Section challenge](#section_7_challenge)
-   2. [Section quizz](#section_7_quizz)
-1. [Section 8 - Statements and Operators](#section_8)
-   1. [Section challenge](#section_8_challenge)
-   2. [Section quizz](#section_8_quizz)
-1. [Section 9 - Controlling Program Flow](#section_9)
-   1. [Section challenge](#section_9_challenge)
-   2. [Section quizz](#section_9_quizz)
-1. [Section 10 - Characters and Strings](#section_10)
-   1. [Section challenge](#section_10_challenge)
-   2. [Section quizz](#section_10_quizz)
-1. [Section 11 - Functions](#section_11)
-   1. [Section challenge](#section_11_challenge)
-   2. [Section quizz](#section_11_quizz)
-1. [Section 12 - Pointers and References](#section_12)
-   1. [Section challenge](#section_12_challenge)
-   2. [Section quizz](#section_12_quizz)
-1. [Section 13 - OOP - Classes and Objects](#section_13)
-   1. [Section challenge](#section_13_challenge)
-   2. [Section quizz](#section_13_quizz)
-1. [Section 14 - Operator Overloading](#section_14)
-   1. [Section challenge](#section_14_challenge)
-   2. [Section quizz](#section_14_quizz)
-1. [Section 15 - Inheritance](#section_15)
-   1. [Section challenge](#section_15_challenge)
-   2. [Section quizz](#section_15_quizz)
-1. [Section 16 - Polymorphism](#section_16)
-   1. [Section challenge](#section_16_challenge)
-   2. [Section quizz](#section_16_quizz)
-1. [Section 17 - Smart Pointers](#section_17)
-   1. [Section challenge](#section_17_challenge)
-   2. [Section quizz](#section_17_quizz)
-1. [Section 18 - Exception Handling](#section_18)
-   1. [Section challenge](#section_18_challenge)
-   2. [Section quizz](#section_18_quizz)
-1. [Section 19 - I/O and Streams](#section_19)
-   1. [Section challenge](#section_19_challenge)
-   2. [Section quizz](#section_19_quizz)
-1. [Section 20 - The Standard Template Library (STL)](#section_20)
-   1. [Section challenge](#section_20_challenge)
-   2. [Section quizz](#section_20_quizz)
-1. [Section 21 - Lambda Expressions](#section_21)
-   1. [Section challenge](#section_21_challenge)
-   2. [Section quizz](#section_21_quizz)
- 
+
+## Table of contents
+<ol>
+   <details>
+      <summary><a href="#naming_conventions">Naming conventions (Not in the course)</a></summary>
+      <ol>
+         <li><a href="#naming_conventions">Classes and class attributes</a></li>
+         <li><a href="#naming_conventions">Functions and Function arguments</a></li>
+         <li><a href="#naming_conventions">Variables</a></li>
+         <li><a href="#naming_conventions">Constants</a></li>
+         <li><a href="#naming_conventions">File naming</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_4">Section 4 - Getting Started</a></summary>
+      <ol>
+         <li><a href="#section_4_IDE">IDEs functionalities</a></li>
+         <li><a href="#section_4_comp_errors">Compiler errors</a></li>
+         <li><a href="#section_4_comp_warnings">Compiler warnings</a></li>
+         <li><a href="#section_4_linker_errors">Linker errors</a></li>
+         <li><a href="#section_4_runtime_errors">Runtime errors</a></li>
+         <li><a href="#section_4_logic_errors">Logic errors</a></li>
+         <li><a href="#section_4_challenge">Section challenge</a></li>
+         <li><a href="#section_4_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_5">Section 5 - Structure of a C++ Program</a></summary>
+      <ol>
+         <li><a href="#section_5_challenge">Section challenge</a></li>
+         <li><a href="#section_5_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_6">Section 6 - Variables and Constants</a></summary>
+      <ol>
+         <li><a href="#section_6_challenge">Section challenge</a></li>
+         <li><a href="#section_6_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_7">Section 7 - Arrays and Vectors</a></summary>
+      <ol>
+         <li><a href="#section_7_challenge">Section challenge</a></li>
+         <li><a href="#section_7_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_8">Section 8 - Statements and Operators</a></summary>
+      <ol>
+         <li><a href="#section_8_challenge">Section challenge</a></li>
+         <li><a href="#section_8_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_9">Section 9 - Controlling Program Flow</a></summary>
+      <ol>
+         <li><a href="#section_9_challenge">Section challenge</a></li>
+         <li><a href="#section_9_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_10">Section 10 - Characters and Strings</a></summary>
+      <ol>
+         <li><a href="#section_10_challenge">Section challenge</a></li>
+         <li><a href="#section_10_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_11">Section 11 - Functions</a></summary>
+      <ol>
+         <li><a href="#section_11_challenge">Section challenge</a></li>
+         <li><a href="#section_11_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_12">Section 12 - Pointers and References</a></summary>
+      <ol>
+         <li><a href="#section_12_challenge">Section challenge</a></li>
+         <li><a href="#section_12_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_13">Section 13 - OOP - Classes and Objects</a></summary>
+      <ol>
+         <li><a href="#section_13_challenge">Section challenge</a></li>
+         <li><a href="#section_13_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_14">Section 14 - Operator Overloading</a></summary>
+      <ol>
+         <li><a href="#section_14_challenge">Section challenge</a></li>
+         <li><a href="#section_14_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_15">Section 15 - Inheritance</a></summary>
+      <ol>
+         <li><a href="#section_15_challenge">Section challenge</a></li>
+         <li><a href="#section_15_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_16">Section 16 - Polymorphism</a></summary>
+      <ol>
+         <li><a href="#section_16_challenge">Section challenge</a></li>
+         <li><a href="#section_16_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_17">Section 17 - Smart Pointers</a></summary>
+      <ol>
+         <li><a href="#section_17_challenge">Section challenge</a></li>
+         <li><a href="#section_17_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_18">Section 18 - Exception Handling</a></summary>
+      <ol>
+         <li><a href="#section_18_challenge">Section challenge</a></li>
+         <li><a href="#section_18_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_19">Section 19 - I/O and Streams</a></summary>
+      <ol>
+         <li><a href="#section_19_challenge">Section challenge</a></li>
+         <li><a href="#section_19_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_20">Section 20 - The Standard Template Library (STL)</a></summary>
+      <ol>
+         <li><a href="#section_20_challenge">Section challenge</a></li>
+         <li><a href="#section_20_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+   <details>
+      <summary><a href="#section_21">Section 21 - Lambda Expressions</a></summary>
+      <ol>
+         <li><a href="#section_21_challenge">Section challenge</a></li>
+         <li><a href="#section_21_quizz">Section quizz</a></li>
+      </ol>
+   </details>
+</ol>
+
 ## Naming conventions (Not in the course) <a name="naming_conventions"></a>
 ### Classes and class attributes <a name="naming_conventions_classes_class_attributes"></a>
 - Class names should be a noun
