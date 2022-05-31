@@ -283,6 +283,13 @@ iostream.cpp //Not valid
 - Rebuild
   - clean + build
 
+<details>
+	<summary>Non exaustive list of IDEs</summary>
+	<ul>
+		<li>Eclipse</li>
+	</ul>
+</details>
+
 ### Compiler errors <a name="section_4_comp_errors"></a>
 - Syntax errors - something wrong with the structure
 - Semantic erros - something wrong with the meaning
