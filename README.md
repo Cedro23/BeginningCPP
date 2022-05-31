@@ -3,8 +3,9 @@
 I made this repository to follow the course [**Beginning C++ Programming - From Beginner to Beyond**](https://www.udemy.com/course/beginning-c-plus-plus-programming/) from [**Frank MITROPOULOS**](https://www.linkedin.com/in/frank-j-mitropoulos/) (LinkedIn profile) on Udemy. <br>
 It transcribes my experience (re)learning C++.
 
-I am making this as a public repository so that if I'm stuck I can easily point people towards the code I am stuck on.
+I am doing this to gain a new skill and to add a programming language to those I already know. I am also doing this to be able to use Unreal Engine with C++ and not only with blueprints.
 
+I am making this as a public repository so that if I'm stuck I can easily point people towards the code I am stuck on.
 
 *If I am asked by Mr. MITROPOULOS to pass this repository to private, I will do it.*
 
