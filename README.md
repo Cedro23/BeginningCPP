@@ -286,7 +286,15 @@ iostream.cpp //Not valid
 <details>
 	<summary>Non exaustive list of IDEs</summary>
 	<ul>
-		<li>Eclipse</li>
+		<li>CodeLite - Free, cross-platform, fast, system requirements are minimal</li>
+		<li>Code::Blocks - Good cross-platform IDE, buggy on Mac</li>
+		<li>NetBeans - Oracle IDE made for Java, great cross-platform but requires a Java JRE and the memory requirements can be pretty significant</li>
+		<li>Eclipse - Multiple languages support, good cross-platform, high memory management</li>
+		<li>CLion - Made by JetBrain, awesome IDE, not free, exists in student version</li>
+		<li>Dev-C++ - C++ Windows only environment, small and fast</li>
+		<li>KDevelop - Cross-platform, multiple-language IDE. No Mac binary, have to build from the source</li>
+		<li>Visual Studio - Windows only for C++ version</li>
+		<li>XCode - Mac only IDE</li>
 	</ul>
 </details>
 
