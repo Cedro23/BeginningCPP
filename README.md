@@ -373,22 +373,27 @@ There are many keywords in C++ that are rarely used. <br>
 There is no need to memorise them as you will learn and memorise them the more you use them.
 
 #### Identifiers
-As in other programming languages, there are operators in C++.<br>
-Some basic ones :
--	`+`: add
--	`-`: substract
--	`*`: multiply
--	`/`: divide
-
-And some non-standars one : 
--	`<<`: Stream insertion operator - Inserts whatever is on the right-hand side of it into that stream
--	`>>`: Stream extraction operator - Takes something from a stream and store it into a variable
--	`::`: Scope resolution operator (c.f: Section 9)
+Identifiers are names given by a programmer, such as :
+-	variables names
+-	function names
+-	preprocessor directives
 
 #### Operators
+As in other programming languages, there are operators in C++.<br>
+Some basic ones :
+-	`+` : add
+-	`-` : substract
+-	`*` : multiply
+-	`/` : divide
+
+And some non-standars one : 
+-	`<<` : Stream insertion operator - Inserts whatever is on the right-hand side of it into that stream
+-	`>>` : Stream extraction operator - Takes something from a stream and store it into a variable
+-	`::` : Scope resolution operator (c.f: Section 9)
 
 #### Ponctuation
-
+Ponctuation is also a part of C++ as it is used to finish statements, define scopes, etc...
+Some ponctuations are `;`, `"`, `{ }`, `()`,...
 
 ### Section challenge <a name="section_5_challenge"></a>
 
