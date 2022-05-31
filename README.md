@@ -366,7 +366,24 @@ Language  | # of keywords
    C     | 32
    Python | 33
 
+As you can see, C++ has a lot of keywords compared to other programming languages.
+
+The more keywords a programming language has, the more complex its grammar is. <br>
+There are many keywords in C++ that are rarely used. <br>
+There is no need to memorise them as you will learn and memorise them the more you use them.
+
 #### Identifiers
+As in other programming languages, there are operators in C++.<br>
+Some basic ones :
+-	`+`: add
+-	`-`: substract
+-	`*`: multiply
+-	`/`: divide
+
+And some non-standars one : 
+-	`<<`: Stream insertion operator - Inserts whatever is on the right-hand side of it into that stream
+-	`>>`: Stream extraction operator - Takes something from a stream and store it into a variable
+-	`::`: Scope resolution operator (c.f: Section 9)
 
 #### Operators
 
