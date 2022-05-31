@@ -347,6 +347,31 @@ Try #  | Result
    1   | 10 out of 10
 
 ## Section 5 - Structure of a C++ Program <a name="section_5"></a>
+### Syntax
+To make up a programming language syntax, you need all of the following :
+-	keywords
+-	identifiers
+-	operators
+-	ponctuation
+
+#### Keywords
+Most languages have keywords. They are part of the vocabulary of a programming language. In most languages, the keywords are also reserved. <br>
+It means we (as programmers) cannot redefine their meaning and cannot use them in a way they were not intended. <br>
+You can see all C++ keywords [here](https://en.cppreference.com/w/cpp/keyword).
+
+Language  | # of keywords
+-------	| -------
+   C++   | ~90
+   Java  | ~50
+   C     | 32
+   Python | 33
+
+#### Identifiers
+
+#### Operators
+
+#### Ponctuation
+
 
 ### Section challenge <a name="section_5_challenge"></a>
 
