@@ -348,6 +348,7 @@ Try #  | Result
 
 ## Section 5 - Structure of a C++ Program <a name="section_5"></a>
 ### Syntax
+Syntax is the structure and the meaning of what you want the compiler to understand. This way it knows how to translate the source code to machine code.
 To make up a programming language syntax, you need all of the following :
 -	keywords
 -	identifiers
