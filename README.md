@@ -1,8 +1,11 @@
 # Beginning C++ Programming - From Beginner to Beyond
 
 I made this repository to follow the course [**Beginning C++ Programming - From Beginner to Beyond**](https://www.udemy.com/course/beginning-c-plus-plus-programming/) from [**Frank MITROPOULOS**](https://www.linkedin.com/in/frank-j-mitropoulos/) (LinkedIn profile) on Udemy. <br>
-It depicts my experience (re)learning C++. <br>
-I am making this as a public repository so that if I'm stuck I can easily point people towards the code I am stuck on. <br><br>
+It depicts my experience (re)learning C++.
+
+I am making this as a public repository so that if I'm stuck I can easily point people towards the code I am stuck on.
+
+
 *If I am asked by Mr. MITROPOULOS to pass this repository to private, I will do it.*
 
 ## Summary
@@ -77,7 +80,7 @@ I am making this as a public repository so that if I'm stuck I can easily point 
 ### Classes and class attributes <a name="naming_conventions_classes_class_attributes"></a>
 - Class names should be a noun
 - Upper case letter as separator, lower case for the rest of the word
-- The first character in the class name must be upper csae
+- The first character in the class name must be upper case
 - No underscore ('\_') are permitted in the class name
 
 Example : 
