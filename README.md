@@ -415,6 +415,30 @@ Preprocessor directives are commonly used to conditionaly compile code (i.e: com
 ⚠️ **C++ preprocessor does not understand C++ !!!** <br>
 The compiler is the program that does understand C++.
 
+### Comments
+Comments apply to basicaly every programming languages. They are programmer readable explanations in the source code (anything that adds meaning to what the program is doing).
+
+:warning: **Comments never make it to the compiler**
+
+C++ has two styles of comments :
+-	Single line comments => everything after `//` untill the end of the line will be ignored
+-	Multi-line comments => everything between `/*` and `*/` will be ignored
+
+The code should be self-documenting. That does not mean we don't write comments.
+
+Some dos and don'ts :
+```diff
++	If you modify your code, make sure you modify the comment associated to it if neessary
++	Write comments that make sense
++	Explain the more complicated code
++	Keep the style of comment consistent
+
+-	Don't comment the obvious
+-	Good commenting does not justify bad code
+-	Do not use comments as version control (use Subversion or Git)
+```
+
+Multi-line comments are usually seen at the top of files. They include informations like the author, the date it was created, copyrights licenses, etc...
 
 ### Section challenge <a name="section_5_challenge"></a>
 
