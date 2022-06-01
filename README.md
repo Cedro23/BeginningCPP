@@ -36,7 +36,7 @@ I am making this as a public repository so that if I'm stuck I can easily point 
       </ol>
    </details>
    <details>
-      <summary><a href="#section_5">Section 5 - Structure of a C++ Program</a></summary>
+      <summary><a href="https://github.com/Cedro23/BeginningCPP/tree/master/Section%205">Section 5 - Structure of a C++ Program</a></summary>
       <ol>
          <li><a href="#section_5_syntax">Syntax</a></li>
 		 <li><a href="#section_5_comments">Comments</a></li>
