@@ -396,6 +396,22 @@ And some non-standars one :
 Ponctuation is also a part of C++ as it is used to finish statements, define scopes, etc...
 Some ponctuations are `;`, `"`, `{ }`, `()`,...
 
+### Preprocessor and preprocessor directives
+The preprocessor is a program that processes the source code before the compiler sees it. It works in the following way :
+1.	Strips all the comments from the source file and replaces it with a single space
+1.	Looks for preprocessor directives and executes them
+
+Preprocessor directives are lines in the source code that begin with the pound, or hashtag, symbol `#`.
+
+`#include` is the most used preprocessor directive. <br>
+When the preprocessor sees this line, it replaces it with the file it's referring to. <br>
+Then it recursively processes that file as well.
+
+Preprocessor directives are commonly used to conditionaly compile code (i.e: compile specific windows/mac library based on the OS).
+
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **C++ preprocessor does not understand C++ !!!**<br>
+The compiler is the program that does understand C++.
+
 ### Section challenge <a name="section_5_challenge"></a>
 
 ### Section quizz <a name="section_5_quizz"></a>
