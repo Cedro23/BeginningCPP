@@ -38,13 +38,14 @@ I am making this as a public repository so that if I'm stuck I can easily point 
    <details>
       <summary><a href="https://github.com/Cedro23/BeginningCPP/tree/master/Section%205">Section 5 - Structure of a C++ Program</a></summary>
       <ol>
-         <li><a href="#section_5_syntax">Syntax</a></li>
-		 <li><a href="#section_5_comments">Comments</a></li>
-         <li><a href="#section_5_main">The main() function</a></li>
-		 <li><a href="#section_5_namespaces">Namespaces</a></li>
-		 <li><a href="#section_5_preprocessor">Preprocessor and preprocessor directives</a></li>
-         <li><a href="#section_5_challenge">Section challenge</a></li>
-         <li><a href="#section_5_quizz">Section quizz</a></li>
+         <li><a href="https://github.com/Cedro23/BeginningCPP/blob/master/Section%205/README.md#syntax-">Syntax</a></li>
+	 <li><a href="https://github.com/Cedro23/BeginningCPP/blob/master/Section%205/README.md#preprocessor-and-preprocessor-directives-">Preprocessor and preprocessor directives</a></li>
+	 <li><a href="https://github.com/Cedro23/BeginningCPP/blob/master/Section%205/README.md#comments-">Comments</a></li>
+         <li><a href="https://github.com/Cedro23/BeginningCPP/blob/master/Section%205/README.md#the-main-function-">The main() function</a></li>
+	 <li><a href="https://github.com/Cedro23/BeginningCPP/blob/master/Section%205/README.md#namespaces-">Namespaces</a></li>
+      	 <li><a href="https://github.com/Cedro23/BeginningCPP/blob/master/Section%205/README.md#basic-input-and-output-io-using-cin-and-cout-">Basic Input and Output (I/O) using cin and cout</a></li>
+         <li><a href="https://github.com/Cedro23/BeginningCPP/blob/master/Section%205/README.md#section-challenge-">Section challenge</a></li>
+         <li><a href="https://github.com/Cedro23/BeginningCPP/blob/master/Section%205/README.md#section-quizz-">Section quizz</a></li>
       </ol>
    </details>
    <details>
