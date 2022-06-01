@@ -39,6 +39,7 @@ I am making this as a public repository so that if I'm stuck I can easily point 
       <summary><a href="#section_5">Section 5 - Structure of a C++ Program</a></summary>
       <ol>
          <li><a href="#section_5_syntax">Syntax</a></li>
+		 <li><a href="#section_5_comments">Comments</a></li>
          <li><a href="#section_5_preprocessor">Preprocessor and preprocessor directives</a></li>
          <li><a href="#section_5_challenge">Section challenge</a></li>
          <li><a href="#section_5_quizz">Section quizz</a></li>
@@ -415,7 +416,7 @@ Preprocessor directives are commonly used to conditionaly compile code (i.e: com
 ⚠️ **C++ preprocessor does not understand C++ !!!** <br>
 The compiler is the program that does understand C++.
 
-### Comments
+### Comments <a name="section_5_comments"></a>
 Comments apply to basicaly every programming languages. They are programmer readable explanations in the source code (anything that adds meaning to what the program is doing).
 
 :warning: **Comments never make it to the compiler**
