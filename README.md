@@ -392,7 +392,7 @@ Some basic ones :
 -	`*` : multiply
 -	`/` : divide
 
-And some non-standars one : 
+And some non-standards one : 
 -	`<<` : Stream insertion operator - Inserts whatever is on the right-hand side of it into that stream
 -	`>>` : Stream extraction operator - Takes something from a stream and store it into a variable
 -	`::` : Scope resolution operator (c.f: Section 9)
