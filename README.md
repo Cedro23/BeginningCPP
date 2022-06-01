@@ -38,6 +38,8 @@ I am making this as a public repository so that if I'm stuck I can easily point 
    <details>
       <summary><a href="#section_5">Section 5 - Structure of a C++ Program</a></summary>
       <ol>
+         <li><a href="#section_5_syntax">Syntax</a></li>
+         <li><a href="#section_5_preprocessor">Preprocessor and preprocessor directives</a></li>
          <li><a href="#section_5_challenge">Section challenge</a></li>
          <li><a href="#section_5_quizz">Section quizz</a></li>
       </ol>
@@ -347,7 +349,7 @@ Try #  | Result
    1   | 10 out of 10
 
 ## Section 5 - Structure of a C++ Program <a name="section_5"></a>
-### Syntax
+### Syntax <a name="section_5_syntax"></a>
 Syntax is the structure and the meaning of what you want the compiler to understand. This way it knows how to translate the source code to machine code.
 To make up a programming language syntax, you need all of the following :
 -	keywords
@@ -396,7 +398,7 @@ And some non-standars one :
 Ponctuation is also a part of C++ as it is used to finish statements, define scopes, etc...
 Some ponctuations are `;`, `"`, `{ }`, `()`,...
 
-### Preprocessor and preprocessor directives
+### Preprocessor and preprocessor directives <a name="section_5_preprocessor"></a>
 The preprocessor is a program that processes the source code before the compiler sees it. It works in the following way :
 1.	Strips all the comments from the source file and replaces it with a single space
 1.	Looks for preprocessor directives and executes them
