@@ -444,6 +444,35 @@ Some dos and don'ts :
 Multi-line comments are usually seen at the top of files. They include informations like the author, the date it was created, copyrights licenses, etc...
 
 ### The main() function <a name="section_5_main"></a>
+:warning: **Every C++ program must have exactly ONE main function somewhere.** <br>
+A C++ program may consist of hundreds of files. Only one of those must contain the main function.
+
+When a C++ program executes, the main function is called by the operating system and the code between the curly braces executes.<br>
+If it returns 0, the program executed successfuly. Else, the operating system can check the returned number to know what went wrong.
+
+There are 2 versions of main, both valid as per the C++ specification :
+-	version with no arguments 
+```cpp
+int main()
+{
+	//Code
+	return 0;
+}
+```
+-	version with expected information from the operating system
+```cpp
+int main(int agrc, char *argv[])
+{
+	//Code
+	return 0;
+}
+```
+
+The second one is very common for command line applications.
+
+:warning: **main must always return an integer**<br>
+
+[^1] note that main must be written in lower case letters.
 
 ### Namespaces <a name="section_5_namespaces"></a>
 
