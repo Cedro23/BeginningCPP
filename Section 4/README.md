@@ -71,7 +71,7 @@ if (age > 18)
 
 ### Section challenge <a name="section_4_challenge"></a>
 Challenge done correctly first try.
-To check my solution go to this [folder](https://github.com/Cedro23/BeginningCPP/tree/master/Section%204/FirstProgram/SectionChallenge).
+To check my solution go to this [folder](https://github.com/Cedro23/BeginningCPP/tree/master/Section%204/SectionChallenge) and check out the `SectionChallenge.cpp` file.
 
 
 ### Section quizz <a name="section_4_quizz"></a>
