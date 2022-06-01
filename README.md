@@ -305,7 +305,7 @@ iostream.cpp //Not valid
 ### Compiler warnings <a name="section_4_comp_warnings"></a>
 - Only a warning because the compiler is still able to generate correct machine code
 
-**TREAT WARNINGS AS ERRORS !!!**
+⚠️ **TREAT WARNINGS AS ERRORS !!!**
 
 ### Linker errors <a name="section_4_linker_errors"></a>
 - The linker is having trouble linking all the object files together to create an executable
@@ -409,10 +409,10 @@ Then it recursively processes that file as well.
 
 Preprocessor directives are commonly used to conditionaly compile code (i.e: compile specific windows/mac library based on the OS).
 
-```diff
-- **C++ preprocessor does not understand C++ !!!**
-+ The compiler is the program that does understand C++.
-```
+
+⚠️ **C++ preprocessor does not understand C++ !!!** <br>
+The compiler is the program that does understand C++.
+
 
 ### Section challenge <a name="section_5_challenge"></a>
 
