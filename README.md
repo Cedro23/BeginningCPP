@@ -40,7 +40,9 @@ I am making this as a public repository so that if I'm stuck I can easily point 
       <ol>
          <li><a href="#section_5_syntax">Syntax</a></li>
 		 <li><a href="#section_5_comments">Comments</a></li>
-         <li><a href="#section_5_preprocessor">Preprocessor and preprocessor directives</a></li>
+         <li><a href="#section_5_main">The main() function</a></li>
+		 <li><a href="#section_5_namespaces">Namespaces</a></li>
+		 <li><a href="#section_5_preprocessor">Preprocessor and preprocessor directives</a></li>
          <li><a href="#section_5_challenge">Section challenge</a></li>
          <li><a href="#section_5_quizz">Section quizz</a></li>
       </ol>
@@ -440,6 +442,10 @@ Some dos and don'ts :
 ```
 
 Multi-line comments are usually seen at the top of files. They include informations like the author, the date it was created, copyrights licenses, etc...
+
+### The main() function <a name="section_5_main"></a>
+
+### Namespaces <a name="section_5_namespaces"></a>
 
 ### Section challenge <a name="section_5_challenge"></a>
 
