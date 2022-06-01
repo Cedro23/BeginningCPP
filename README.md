@@ -25,14 +25,14 @@ I am making this as a public repository so that if I'm stuck I can easily point 
    <details>
       <summary><a href="https://github.com/Cedro23/BeginningCPP/tree/master/Section%204/FirstProgram">Section 4 - Getting Started</a></summary>
       <ol>
-         <li><a href="#section_4_IDE">IDEs functionalities</a></li>
-         <li><a href="#section_4_comp_errors">Compiler errors</a></li>
-         <li><a href="#section_4_comp_warnings">Compiler warnings</a></li>
-         <li><a href="#section_4_linker_errors">Linker errors</a></li>
-         <li><a href="#section_4_runtime_errors">Runtime errors</a></li>
-         <li><a href="#section_4_logic_errors">Logic errors</a></li>
-         <li><a href="#section_4_challenge">Section challenge</a></li>
-         <li><a href="#section_4_quizz">Section quizz</a></li>
+         <li><a href="https://github.com/Cedro23/BeginningCPP/tree/master/Section%204#ides-functionalities-">IDEs functionalities</a></li>
+         <li><a href="https://github.com/Cedro23/BeginningCPP/tree/master/Section%204#compiler-errors-">Compiler errors</a></li>
+         <li><a href="https://github.com/Cedro23/BeginningCPP/tree/master/Section%204#compiler-warnings-">Compiler warnings</a></li>
+         <li><a href="https://github.com/Cedro23/BeginningCPP/tree/master/Section%204#linker-errors-">Linker errors</a></li>
+         <li><a href="https://github.com/Cedro23/BeginningCPP/tree/master/Section%204#runtime-errors-">Runtime errors</a></li>
+         <li><a href="https://github.com/Cedro23/BeginningCPP/tree/master/Section%204#logic-errors-">Logic errors</a></li>
+         <li><a href="https://github.com/Cedro23/BeginningCPP/tree/master/Section%204#section-challenge-">Section challenge</a></li>
+         <li><a href="https://github.com/Cedro23/BeginningCPP/tree/master/Section%204#section-quizz-">Section quizz</a></li>
       </ol>
    </details>
    <details>
