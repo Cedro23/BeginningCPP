@@ -97,11 +97,11 @@ const double TWO_PI = 6.28318531;
 - Do not use filenames that already exist in "/user/include" or any predefined header file name
 
 Example :
-```
-helloworld.cc //Valid
-hello_world.cpp //Valid
-hello-world.cpp //Valid
-hel-lo_world.cpp //Valid
-hello*world.cpp //Not valid
-iostream.cpp //Not valid
+```diff
++ helloworld.cc //Valid
++ hello_world.cpp //Valid
++ hello-world.cpp //Valid
++ hel-lo_world.cpp //Valid
+- hello*world.cpp //Not valid
+- iostream.cpp //Not valid
 ```
