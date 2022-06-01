@@ -445,7 +445,7 @@ Multi-line comments are usually seen at the top of files. They include informati
 
 ### The main() function <a name="section_5_main"></a>
 :warning: **Every C++ program must have exactly ONE main function somewhere.** <br>
-A C++ program may consist of hundreds of files. Only one of those must contain the main function.
+A C++ program may consist of hundreds of files. Only one of those must contain the main[^1] function.
 
 When a C++ program executes, the main function is called by the operating system and the code between the curly braces executes.<br>
 If it returns 0, the program executed successfuly. Else, the operating system can check the returned number to know what went wrong.
@@ -472,7 +472,7 @@ The second one is very common for command line applications.
 
 :warning: **main must always return an integer**<br>
 
-[^1] note that main must be written in lower case letters.
+[^1]: note that main must be written in lower case letters.
 
 ### Namespaces <a name="section_5_namespaces"></a>
 
