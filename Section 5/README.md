@@ -120,6 +120,45 @@ The second one is very common for command line applications.
 :warning: **main must always return an integer**<br>
 
 ## Namespaces <a name="section_5_namespaces"></a>
+As programs become more and more complexe, they become a combination of *our own code*, the *C++ standard libraries and their code* and *third-party developers and their code*.
+
+For example : picture a company X and a company Y, if they both have a function called `GetArea()` and you use both of them, you will have a possible naming conflict.
+```cpp
+X::GetArea();
+Y::GetArea();
+
+//std is the name for the C++ "standard" namespace
+```
+
+To avoid this kind of conflicts, **namespaces** are used. <br>
+C++ allows developers to use namespaces as containers to group their code entities into a namespace scope. 
+
+It is possible not to type `std::cout`every. single. time : 
+```cpp
+using namespace std; // Use the ENTIRE std namespace
+
+int main()
+{
+	cout << "Hello world !";
+	return 0;
+}
+```
+
+Or this variant :
+```cpp
+using std::cout; // Use only what you need
+
+int main()
+{
+	cout << "Hello world !" << std::endl; // We only called for cout in the using directive, so you need to call for std:: to use endl
+	return 0;
+}
+```
+
+This may not be the best solution for large programs. `using namespace std` brings in cout, cin, endl and a bunch of other identifiers contained in the std namespace. 
+
+## Basic Input and Output (I/O) using cin and cout <a name="section_5_IO"></a>
+
 
 ## Section challenge <a name="section_5_challenge"></a>
 
