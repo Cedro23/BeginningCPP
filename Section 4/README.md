@@ -35,7 +35,7 @@
 - Syntax errors - something wrong with the structure
 - Semantic erros - something wrong with the meaning
 
-### Compiler warnings <a name="section_4_comp_warnings"></a>
+## Compiler warnings <a name="section_4_comp_warnings"></a>
 - Only a warning because the compiler is still able to generate correct machine code
 
 ⚠️ **TREAT WARNINGS AS ERRORS !!!**
