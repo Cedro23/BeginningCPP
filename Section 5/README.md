@@ -133,7 +133,7 @@ Y::GetArea();
 To avoid this kind of conflicts, **namespaces** are used. <br>
 C++ allows developers to use namespaces as containers to group their code entities into a namespace scope. 
 
-It is possible not to type `std::cout`every. single. time : 
+It is possible not to type `std::cout` every. single. time : 
 ```cpp
 using namespace std; // Use the ENTIRE std namespace
 
