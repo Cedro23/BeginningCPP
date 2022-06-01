@@ -1,5 +1,5 @@
-## Section 4 - Getting Started <a name="section_4"></a>
-### IDEs functionalities <a name="section_4_IDE"></a>
+# Section 4 - Getting Started <a name="section_4"></a>
+## IDEs functionalities <a name="section_4_IDE"></a>
 - Compile
   - convert .cpp source code to an object format
   - creates .o or .obj files
@@ -31,7 +31,7 @@
 	</ul>
 </details>
 
-### Compiler errors <a name="section_4_comp_errors"></a>
+## Compiler errors <a name="section_4_comp_errors"></a>
 - Syntax errors - something wrong with the structure
 - Semantic erros - something wrong with the meaning
 
@@ -40,11 +40,11 @@
 
 ⚠️ **TREAT WARNINGS AS ERRORS !!!**
 
-### Linker errors <a name="section_4_linker_errors"></a>
+## Linker errors <a name="section_4_linker_errors"></a>
 - The linker is having trouble linking all the object files together to create an executable
 - Usually there is a library or object file that is missing
 
-### Runtime errors <a name="section_4_runtime_errors"></a>
+## Runtime errors <a name="section_4_runtime_errors"></a>
 - Errors that occur when the program is executing
 - Some typical runtime rrors
   - Divide by zero
@@ -53,7 +53,7 @@
 - Can cause the program to "crash"
 - Exception Handling can help dealing with runtime errors
 
-### Logic errors <a name="section_4_logic_errors"></a>
+## Logic errors <a name="section_4_logic_errors"></a>
 - Errors or bugs in the code that causes the program to run incorrectly
 - Logic errors are mistakes made by the programmer
 
@@ -69,12 +69,12 @@ if (age > 18)
 //Or superior to 17 (age > 17)
 ```
 
-### Section challenge <a name="section_4_challenge"></a>
+## Section challenge <a name="section_4_challenge"></a>
 Challenge done correctly first try.
 To check my solution go to this [folder](https://github.com/Cedro23/BeginningCPP/tree/master/Section%204/SectionChallenge) and check out the `SectionChallenge.cpp` file.
 
 
-### Section quizz <a name="section_4_quizz"></a>
+## Section quizz <a name="section_4_quizz"></a>
 Try #  | Result
 | :---:| -------
    1   | 10 out of 10
