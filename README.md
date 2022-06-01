@@ -409,8 +409,10 @@ Then it recursively processes that file as well.
 
 Preprocessor directives are commonly used to conditionaly compile code (i.e: compile specific windows/mac library based on the OS).
 
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **C++ preprocessor does not understand C++ !!!**<br>
-The compiler is the program that does understand C++.
+```diff
+- **C++ preprocessor does not understand C++ !!!**
++ The compiler is the program that does understand C++.
+```
 
 ### Section challenge <a name="section_5_challenge"></a>
 
