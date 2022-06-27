@@ -174,9 +174,33 @@ This may not be the best solution for large programs. `using namespace std` brin
 	- input stream
 	
 ### `cout` and `<<`
-
+- Insert data into the **cout** stream :
+```cpp
+	cout << data;
+```
+- Can be chained :
+```cpp
+	cout << "data1 is " << data1;
+```
+- Does not automatically add line breaks :
+```cpp
+	cout << "data 1 is " << data1 << endl; //End line stream manipulator, this also flushes the stream
+	cout << "data 1 is " << data1 << "\n";
+```
 
 ### `cin` and `>>`
+- Extract data from the **cin** stream :
+```cpp
+	cin >> data;
+```
+- Can be chained :
+```cpp
+	cin >> data1 >> data2;
+```
+- Can fail if the entered data cannot be interpreted :
+```cpp
+	data could have an undetermined value
+```
 
 ## Section challenge <a name="section_5_challenge"></a>
 
