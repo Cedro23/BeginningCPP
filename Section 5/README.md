@@ -160,6 +160,24 @@ This may not be the best solution for large programs. `using namespace std` brin
 ## Basic Input and Output (I/O) using cin and cout <a name="section_5_IO"></a>
 **cout**, **cin**, **cerr** and **clog** are all objects representing streams. 
 
+- `cout` : 
+	- standard output stream
+	- default to console
+- `cin` :
+	- standard input stream
+	- default to keyboard
+- `<<` :
+	- insertion operator
+	- output stream
+- `>>` :
+	- extraction operator
+	- input stream
+	
+### `cout` and `<<`
+
+
+### `cin` and `>>`
+
 ## Section challenge <a name="section_5_challenge"></a>
 
 ## Section quizz <a name="section_5_quizz"></a>
