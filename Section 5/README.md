@@ -158,7 +158,7 @@ int main()
 This may not be the best solution for large programs. `using namespace std` brings in cout, cin, endl and a bunch of other identifiers contained in the std namespace. 
 
 ## Basic Input and Output (I/O) using cin and cout <a name="section_5_IO"></a>
-
+**cout**, **cin**, **cerr** and **clog** are all objects representing streams. 
 
 ## Section challenge <a name="section_5_challenge"></a>
 
