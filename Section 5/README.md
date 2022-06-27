@@ -221,7 +221,8 @@ cin >> y;
 ```
 
 ## Section quizz <a name="section_5_quizz"></a>
-
-
+Try #  | Result
+| :---:| -------
+   1   | 10 out of 10
 
 [^1]: note that main must be written in lower case letters.
