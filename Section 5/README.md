@@ -203,7 +203,25 @@ This may not be the best solution for large programs. `using namespace std` brin
 ```
 
 ## Section challenge <a name="section_5_challenge"></a>
+### Coding exercice 1
+```cpp
+	cout << "Hi Frank!";
+```
+
+### Coding exercice 2
+```cpp
+	cout << "Sally has " << x << " dogs.";
+```
+
+### Coding exercice 3
+```cpp
+	cin >> m;
+    	cin >> d;
+    	cin >> y;
+```
 
 ## Section quizz <a name="section_5_quizz"></a>
+
+
 
 [^1]: note that main must be written in lower case letters.
