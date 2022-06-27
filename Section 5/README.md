@@ -176,48 +176,48 @@ This may not be the best solution for large programs. `using namespace std` brin
 ### `cout` and `<<`
 - Insert data into the **cout** stream :
 ```cpp
-	cout << data;
+cout << data;
 ```
 - Can be chained :
 ```cpp
-	cout << "data1 is " << data1;
+cout << "data1 is " << data1;
 ```
 - Does not automatically add line breaks :
 ```cpp
-	cout << "data 1 is " << data1 << endl; //End line stream manipulator, this also flushes the stream
-	cout << "data 1 is " << data1 << "\n";
+cout << "data 1 is " << data1 << endl; //End line stream manipulator, this also flushes the stream
+cout << "data 1 is " << data1 << "\n";
 ```
 
 ### `cin` and `>>`
 - Extract data from the **cin** stream :
 ```cpp
-	cin >> data;
+cin >> data;
 ```
 - Can be chained :
 ```cpp
-	cin >> data1 >> data2;
+cin >> data1 >> data2;
 ```
 - Can fail if the entered data cannot be interpreted :
 ```cpp
-	data could have an undetermined value
+data could have an undetermined value
 ```
 
 ## Section challenge <a name="section_5_challenge"></a>
 ### Coding exercice 1
 ```cpp
-	cout << "Hi Frank!";
+cout << "Hi Frank!";
 ```
 
 ### Coding exercice 2
 ```cpp
-	cout << "Sally has " << x << " dogs.";
+cout << "Sally has " << x << " dogs.";
 ```
 
 ### Coding exercice 3
 ```cpp
-	cin >> m;
-    	cin >> d;
-    	cin >> y;
+cin >> m;
+cin >> d;
+cin >> y;
 ```
 
 ## Section quizz <a name="section_5_quizz"></a>
