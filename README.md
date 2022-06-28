@@ -13,7 +13,7 @@ I am making this as a public repository so that if I'm stuck I can easily point 
 ## Table of contents
 <ol>
    <details>
-      <summary><a href="https://github.com/Cedro23/BeginningCPP/tree/master/Naming%20Convention">Naming conventions (Not in the course)</a></summary>
+      <summary><a href="https://github.com/Cedro23/BeginningCPP/tree/master/Naming%20Convention">Naming conventions</a></summary>
       <ol>
          <li><a href="https://github.com/Cedro23/BeginningCPP/tree/master/Naming%20Convention#classes-and-class-attributes-">Classes and class attributes</a></li>
          <li><a href="https://github.com/Cedro23/BeginningCPP/tree/master/Naming%20Convention#functions-and-function-arguments-">Functions and Function arguments</a></li>
