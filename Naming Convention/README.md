@@ -1,4 +1,4 @@
-# Naming conventions (Not in the course) <a name="naming_conventions"></a>
+# Naming conventions <a name="naming_conventions"></a>
 ## Classes and class attributes <a name="naming_conventions_classes_class_attributes"></a>
 - Class names should be a noun
 - Upper case letter as separator, lower case for the rest of the word
