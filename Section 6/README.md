@@ -21,8 +21,6 @@
 
 ## What is a constant ? <a name="section_6_constant"></a>
 
-## Declaring and Using Constants <a name="section_6_decl_using_const"></a>
-
 ## Section challenge <a name="section_6_challenge"></a>
 ### Coding exercice 4
 
