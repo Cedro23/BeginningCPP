@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SizeofOperator", "..\Sizeof
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Constants", "..\Constants\Constants.vcxproj", "{306BA424-9D21-4D61-9FB0-0FEA9BF8BD87}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SectionChallenge", "..\SectionChallenge\SectionChallenge.vcxproj", "{79F26993-F6DD-4AE9-B5A7-3718ECB79321}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{306BA424-9D21-4D61-9FB0-0FEA9BF8BD87}.Release|x64.Build.0 = Release|x64
 		{306BA424-9D21-4D61-9FB0-0FEA9BF8BD87}.Release|x86.ActiveCfg = Release|Win32
 		{306BA424-9D21-4D61-9FB0-0FEA9BF8BD87}.Release|x86.Build.0 = Release|Win32
+		{79F26993-F6DD-4AE9-B5A7-3718ECB79321}.Debug|x64.ActiveCfg = Debug|x64
+		{79F26993-F6DD-4AE9-B5A7-3718ECB79321}.Debug|x64.Build.0 = Debug|x64
+		{79F26993-F6DD-4AE9-B5A7-3718ECB79321}.Debug|x86.ActiveCfg = Debug|Win32
+		{79F26993-F6DD-4AE9-B5A7-3718ECB79321}.Debug|x86.Build.0 = Debug|Win32
+		{79F26993-F6DD-4AE9-B5A7-3718ECB79321}.Release|x64.ActiveCfg = Release|x64
+		{79F26993-F6DD-4AE9-B5A7-3718ECB79321}.Release|x64.Build.0 = Release|x64
+		{79F26993-F6DD-4AE9-B5A7-3718ECB79321}.Release|x86.ActiveCfg = Release|Win32
+		{79F26993-F6DD-4AE9-B5A7-3718ECB79321}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
