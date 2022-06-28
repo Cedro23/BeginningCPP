@@ -41,10 +41,26 @@ int main()
     cout << "long: " << LONG_MAX << endl;
     cout << "long long: " << LLONG_MAX << endl;
 
+    //Use values defined in <cfloat>
+    cout << "=================================" << endl;
+
+    cout << "Minimum values:" << endl;
+    cout << "float: " << FLT_MIN << endl;
+    cout << "double: " << DBL_MIN << endl;
+    cout << "long double: " << LDBL_MIN << endl;
+
+    cout << "=================================" << endl;
+
+    cout << "Maximum values:" << endl;
+    cout << "float: " << FLT_MAX << endl;
+    cout << "double: " << DBL_MAX << endl;
+    cout << "long double: " << LDBL_MAX << endl;
+
     //sizeof can also be used with variable names
     cout << "=================================" << endl;
 
     cout << "sizeof using variable names:" << endl;
+
     int age{ 21 };
     cout << "age is " << sizeof(age) << " bytes." << endl;
     //or 

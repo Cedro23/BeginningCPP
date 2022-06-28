@@ -9,8 +9,22 @@
 ## Global variables <a name="section_6_global"></a>
 
 ## C++ built-in primitive types <a name="section_6_primitive_types"></a>
+### Character Types
+
+### Integer Types
+
+### Floating-point Types
+
+### Boolean Type
+
+## What is the size of a variable ? <a name="section_6_sizeof"></a>
+
+## What is a constant ? <a name="section_6_constant"></a>
+
+## Declaring and Using Constants <a name="section_6_decl_using_const"></a>
 
 ## Section challenge <a name="section_6_challenge"></a>
+### Coding exercice 4
 
 ## Section quizz <a name="section_6_quizz"></a>
 
