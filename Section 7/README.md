@@ -7,4 +7,4 @@
 ## Section quizz <a name="section_7_quizz"></a>
 Try #  | Result
 | :---:| -------
-   1   | 9 out of 10
+   1   |  out of 10
