@@ -68,7 +68,27 @@ cin >> testScores[1];
 testScores[0] = 90; //Assignement statement
 ```
 
+### Multidimensional arrays
+#### Declaring
+`Element_Type array_name[1st dimension] [2nd dimension];`
 
+```cpp
+int movieRatings[3][4];
+```
+
+There is no real limit on the number of dimensions. However, be aware that some compiler do place limits on this. Keep in mind that limits are quite high, so it is unlikel that you will ever reach them.
+
+#### Initialising
+```cpp
+int movieRatings[3][4]
+{
+	{0, 4, 3, 5},
+	{2, 3, 3, 5},
+	{1, 4, 4, 5}
+};
+```
+
+## Vectors
 
 ## Section challenge <a name="section_7_challenge"></a>
 
