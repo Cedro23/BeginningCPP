@@ -1,4 +1,4 @@
-# Section 6 - Arrays and Vectors <a name="section_7"></a>
+# Section 7 - Arrays and Vectors <a name="section_7"></a>
 ## Arrays
 ### Characteristics
 - Fixed in size
