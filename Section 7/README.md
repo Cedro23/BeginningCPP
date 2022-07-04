@@ -189,4 +189,4 @@ See the folder named "SectionChallenge".
 ## Section quizz <a name="section_7_quizz"></a>
 Try #  | Result
 | :---:| -------
-   1   |  out of 10
+   1   | 10 out of 10
