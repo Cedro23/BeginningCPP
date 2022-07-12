@@ -1,6 +1,8 @@
 # Section 8 - Arrays and Vectors <a name="section_8"></a>
 
-## Operator Precedence and Associativity
+
+
+## Operator Precedence and Associativity <a name="section_8_precedence_associativity"></a>
 Here is a complete [operator preference and associativity table](https://en.cppreference.com/w/cpp/language/operator_precedence).
 ### What is associativity ?
 - Use precedence rules when adjacent operators are different<br>
