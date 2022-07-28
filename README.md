@@ -7,8 +7,6 @@ I am doing this to gain a new skill and to add a programming language to those I
 
 I am making this as a public repository so that if I'm stuck I can easily point people towards the code I am stuck on.
 
-*If I am asked by Mr. MITROPOULOS to pass this repository to private, I will do it.*
-
 
 ## Table of contents
 <ol>
