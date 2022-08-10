@@ -7,6 +7,8 @@ I am doing this to gain a new skill and to add a programming language to those I
 
 I am making this as a public repository so that if I'm stuck I can easily point people towards the code I am stuck on.
 
+To be honest, it is getting kinda boring rewritting every single lesson. So from now on, I will just push the various challenges.
+
 
 ## Table of contents
 <ol>
