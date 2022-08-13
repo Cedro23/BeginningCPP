@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8461b757-d684-4ae6-9177-6f8bc8d475bf}</ProjectGuid>
-    <RootNamespace>IntroToPointers</RootNamespace>
+    <ProjectGuid>{f3b40d76-d11b-4584-a2b8-b4be37c5a0e5}</ProjectGuid>
+    <RootNamespace>PointersAndArrays</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
